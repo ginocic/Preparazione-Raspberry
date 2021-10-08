@@ -42,6 +42,28 @@ Le `Impostazioni persistenti` riguardano, Imager stesso non il sistema operativo
 > sudo raspi-config
 > ```
 
+Infine, cliccare su <kbd>Write</kbd>. Attendere che Imager abbia terminato la scrittura e la verifica.
+
+Inserire la scheda SD nel Raspberry e avviarlo.
+
+# Accedere al Raspberry
+Si può accedere al Raspberry in 2 modi
+  1. Collegare monitor, tastiera e mouse (solo se si è stata installata la versione del OS con Desktop) al Raspberry.
+  2. Conoscendo l'indirizzo IP del Raspberry, collegarsi aprendo una sessione ssh.
+     > **Nota**: per procedere in questa modalità, bisogna aver inserito i parametri relativi all'accesso con SSH nelle `opzioni avanzate` di cui sopra
+
+Per conoscere l'indirizzo IP del raspberry, utilizzare:
+  1. software tipo [Advanced IP Scanner](http://www.advanced-ip-scanner.com/link.php?lng=it&ver=2-5-3850&beta=n&page=about).
+     > Basta googlare `ip scanner`, esistono centinaia di software del genere. Scegliere quello che più ci aggrada.
+  2. Interrogando il proprio router (in genere, attraverso la relativa pagina web o software dedicato).
+
+Una volta ottenuto l'indirizzo IP del Raspberry, aprire una sessione SSH e collegarsi al sistema. 
+
+Anche qui, ci sono diversi software. Per esempio:
+  1. [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+  2. [MobaXterm](https://mobaxterm.mobatek.net/)
+  3. PowerShell e Prompt dei Comandi di Windows
+
 
 
 

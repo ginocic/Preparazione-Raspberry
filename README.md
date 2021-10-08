@@ -5,7 +5,27 @@ Scaricare e installare [Raspberry Pi Imager](https://www.raspberrypi.com/softwar
 
 ![Download Raspberry Pi Imager](img/download_rpi-imager.png)
 
+Aprire Raspberry Pi Imager e selezionare il sistema operativo. Nel mio caso, per esempio:
+  * <kbd>CHOOSE OS</kbd>
+  * <kbd>Raspberry Pi OS (other)</kbd>
+  * <kbd>Raspberry Pi OS Lite (32-bit)</kbd>
 
+Dopodichè, selezionare la scheda SD:
+  * <kbd>CHOOSE STORAGE</kbd>
+  * selezionare la scheda SD dall'elenco
+    >**ATTENZIONE!!!** Questa operazione cancellerà tutti i dati sul dispositivo selezionato. Se si seleziona un dispositivo errato, il contenuto verrà cancellato.
+
+Prima di passare alla scrittura, premere i tasti <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>x</kbd>. Con questa combinazione di tasti, si aprirá una finestra di configurazione iniziale del sistema.
+
+![Configurazione OS](img/config1.png)
+
+![Configurazione OS](img/config2.png)
+
+![Configurazione OS](img/config3.png)
+
+![Configurazione OS](img/config4.png)
+
+![Configurazione OS](img/config5.png)
 
 
 

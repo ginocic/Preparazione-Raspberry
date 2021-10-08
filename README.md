@@ -17,16 +17,30 @@ Dopodichè, selezionare la scheda SD:
 
 Prima di passare alla scrittura, premere i tasti <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>x</kbd>. Con questa combinazione di tasti, si aprirá una finestra di configurazione iniziale del sistema.
 
+Cambiare il nome host.
+
 ![Configurazione OS](img/config1.png)
+
+Abilitare l'accesso SSH con password o con una chiave pubblica.
 
 ![Configurazione OS](img/config2.png)
 
+Configurare la connessione WiFi inserendo tutti i dati necessari.
+
 ![Configurazione OS](img/config3.png)
+
+Impostare le configurazioni locali.
 
 ![Configurazione OS](img/config4.png)
 
+Le `Impostazioni persistenti` riguardano, Imager stesso non il sistema operativo.
+
 ![Configurazione OS](img/config5.png)
 
+> Le opzione avanzate sono **Opzionali** e possono essere modificate anche dopo l'installazione del sistema con il comando
+> ```bash
+> sudo raspi-config
+> ```
 
 
 

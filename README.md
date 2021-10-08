@@ -13,7 +13,7 @@ Aprire Raspberry Pi Imager e selezionare il sistema operativo. Nel mio caso, per
 Dopodichè, selezionare la scheda SD:
   * <kbd>CHOOSE STORAGE</kbd>
   * selezionare la scheda SD dall'elenco
-    >**ATTENZIONE!!!** Questa operazione cancellerà tutti i dati sul dispositivo selezionato. Se si seleziona un dispositivo errato, il contenuto verrà cancellato.
+    >**ATTENZIONE!!!** Questa operazione cancellerà tutti i dati sul dispositivo selezionato. Quindi, porre molta attenzione sulla scelta del dispositivo.
 
 Prima di passare alla scrittura, premere i tasti <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>x</kbd>. Con questa combinazione di tasti, si aprirá una finestra di configurazione iniziale del sistema.
 
@@ -64,13 +64,7 @@ Anche qui, ci sono diversi software. Per esempio:
   2. [MobaXterm](https://mobaxterm.mobatek.net/)
   3. PowerShell e Prompt dei Comandi di Windows
 
-
-
-
-
-
-il software necessario su Raspberry Pi
-
+# Installazione del software necessario su Raspberry Pi
 ### Preparazione
 ```bash
 cd

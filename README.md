@@ -3,7 +3,7 @@ Installazione del sistema operativo e del software necessario e preparazione al 
 # Installare e configurare Raspberry Pi OS
 Scaricare e installare [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 
-![Download Raspberry Pi Imager](img/download_rpi-imager.PNG)
+![Download Raspberry Pi Imager](img/download_rpi-imager.png)
 
 
 

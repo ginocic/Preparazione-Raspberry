@@ -54,7 +54,7 @@ Si può accedere al Raspberry in 2 modi
 
 Per conoscere l'indirizzo IP del raspberry, utilizzare:
   1. software tipo [Advanced IP Scanner](http://www.advanced-ip-scanner.com/link.php?lng=it&ver=2-5-3850&beta=n&page=about).
-     > Basta googlare `ip scanner`, esistono centinaia di software del genere. Scegliere quello che più ci aggrada.
+     > Basta googlare `ip scanner`. Esistono centinaia di software del genere. Scegliere quello che più ci aggrada.
   2. Interrogando il proprio router (in genere, attraverso la relativa pagina web o software dedicato).
 
 Una volta ottenuto l'indirizzo IP del Raspberry, aprire una sessione SSH e collegarsi al sistema. 

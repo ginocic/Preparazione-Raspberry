@@ -68,21 +68,7 @@ Anche qui, ci sono diversi software. Per esempio:
 ### Preparazione
 ```bash
 cd
-passwd
-sudo apt install -y git curl
-mkdir -p "$HOME/.local"
-git clone https://github.com/ginocic/bash_aliases.git "$HOME/.local/BashAliases"
-```
-
-Test
-```bash
-. "$HOME/.local/BashAliases/bash_aliases"
-```
-
-Scrittura nel file ```.bashrc```
-```bash
-echo '. "$HOME/.local/BashAliases/bash_aliases"' >> ~/.bashrc
-tail -5 ~/.bashrc
+wget https://raw.githubusercontent.com/ginocic/bash_aliases/main/.bash_aliases
 ```
 
 Testare in una sessione ssh duplicata e se tutto funziona correttamente

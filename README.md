@@ -66,16 +66,7 @@ Anche qui, ci sono diversi software. Per esempio:
 
 # Installazione del software necessario su Raspberry Pi
 ### Preparazione
-```bash
-cd
-wget https://raw.githubusercontent.com/ginocic/bash_aliases/main/.bash_aliases
-```
-
-Testare in una sessione ssh duplicata e se tutto funziona correttamente
-```bash
-aggiorna && ripulisci
-riavvia
-```
+Leggere le indicazioni contenute in questo [repository](https://github.com/ginocic/bash_aliases)
 
 ### Note
 Se si vuole disabilitare bluetooth e WiFi, aprire il il file `config.txt` con `nano`
